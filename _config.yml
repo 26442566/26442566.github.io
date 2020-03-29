@@ -1,3 +1,4 @@
 name: Společenství vlastníků Biskupcova 42, Praha 3
 markdown: kramdown
 theme: jekyll-theme-minimal
+permalink: /blog/:year/:month/:day/:title
