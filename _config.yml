@@ -1,6 +1,6 @@
 title: Společenství vlastníků Biskupcova 42, Praha 3
-author: Výbor
-  name: Vybor
+author:
+  #name: "Výbor"
   email: vybor@biskupcova42.cz
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
