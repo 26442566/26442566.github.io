@@ -12,6 +12,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
-  
+  - jekyll-seo-tag
+
 minima:
   date_format: "%d. %m. %Y"
