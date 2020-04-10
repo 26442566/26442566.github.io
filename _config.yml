@@ -7,3 +7,6 @@ description: > # this means to ignore newlines until "show_excerpts:"
   Google search results) and in your feed.xml site description.show_downloads: true
 #google_analytics:
 theme: minima
+
+minima:
+  date_format: "%d. %m. %Y"
