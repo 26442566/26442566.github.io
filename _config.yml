@@ -6,13 +6,15 @@ description: > # this means to ignore newlines until "show_excerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.show_downloads: true
 #google_analytics:
-github_username: 26442566
 
 markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
 minima:
   date_format: "%d. %m. %Y"
+  
+  social_links:
+    github: "26442566"
