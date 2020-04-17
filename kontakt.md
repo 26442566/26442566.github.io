@@ -12,4 +12,8 @@ Výbor: [**Tomáš Beznoska**](mailto:beznoska@biskupcova42.cz) - předseda výb
 
 Číslo účtu: [**2801745554 / 2010**](https://ib.fio.cz/ib/transparent?a=2801745554)
 
+Email výboru: [vybor@biskupcova42.cz](mailto:vybor@biskupcova42.cz)
+
+Email pro zasílání faktur: [fakturace@biskupcova42.cz](mailto:fakturace@biskupcova42.cz)
+
 Datová schránka:
