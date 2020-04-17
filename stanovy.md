@@ -1,6 +1,3 @@
----
-title: "Stanovy"
----
 ### Stanovy společenství vlastníků jednotek pro dům č.p. 1719 na pozemku parc. č. 3919, k.ú. Žižkov s názvem Společenství vlastníků Biskupcova 42, Praha 3
 
 #### Čl. I. Základní ustanovení
