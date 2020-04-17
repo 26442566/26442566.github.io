@@ -13,8 +13,6 @@ Adresa: [**Biskupcova 1719/42, 130 00 Praha 3**](https://mapy.cz/s/junehusula),
 
 Číslo účtu: [**2801745554 / 2010**](https://ib.fio.cz/ib/transparent?a=2801745554)
 
-Email výboru: [vybor@biskupcova42.cz](mailto:vybor@biskupcova42.cz)
-
 Email pro zasílání faktur: [fakturace@biskupcova42.cz](mailto:fakturace@biskupcova42.cz)
 
 Datová schránka:
@@ -25,6 +23,8 @@ Datová schránka:
 [**Vladimír Kryzánek**](mailto:kryzanek@biskupcova42.cz) - místopředseda výboru, 
 
 [**Jakub Sadílek**](mailto:sadilek@biskupcova42.cz) - člen výboru
+
+Email výboru: [vybor@biskupcova42.cz](mailto:vybor@biskupcova42.cz)
 
 ## Správce
 
