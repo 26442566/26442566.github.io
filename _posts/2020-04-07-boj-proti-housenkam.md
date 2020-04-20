@@ -33,6 +33,5 @@ Do všech domů roznášíme papír o informaci a vylepujeme, ale nemůžeme zar
 
 V případě dotazů jsem k dispozici.
 
-Křivánková
-
+Křivánková\
 601592104
