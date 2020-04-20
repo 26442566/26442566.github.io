@@ -21,11 +21,10 @@ Prosím všechny, zda mohou tuto informaci rozposlat v rámci Vašeho domu a př
 
 *Aktualizováno*
 
-Housenky se začali líhnout a tedy postřik musí proběhnout, co nejdříve.
+Housenky se začaly líhnout a tedy postřik musí proběhnout, co nejdříve.
 
 Postřik proběhne v pondělí 20.&nbsp;4.&nbsp;2020 od 10 hodin, a současně kromě realizace postřiku, musí postřik i zaschnout.
-Zákaz vstupu do vnitrobloku je tedy od 9 hodin do cca 13 hodin, v pondělí 20.&nbsp;4.&nbsp;2020. Současně by neměla být otevřená okna v nižších patrech.
-Postřik probíhá do výše 4 metrů.
+**Zákaz vstupu do vnitrobloku je tedy od 9 hodin do cca 13 hodin, v pondělí 20.&nbsp;4.&nbsp;2020.** Současně by neměla být otevřená okna v nižších patrech. Postřik probíhá do výše 4 metrů.
 
 Prosím tedy předejte tuto informaci všem nájemníkům a majitelům.
 
