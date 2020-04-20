@@ -7,8 +7,6 @@ author:
 meta: "Vnitroblok"
 ---
 
-*Aktualizováno*
-
 Dobrý den,
 
 ráda bych Vás informovala o aktivitě, co  bude probíhat u nás ve vnitrobloku.
@@ -21,6 +19,8 @@ Tedy odborná firma vyklidí všechny kompostery a jejich obsah se odveze kontej
 V druhém kroku proběhne postřik do výše 4 metrů látkou, která by housenky měla zničit. Zde se s termínem čeká na vylíhnutí housenek, bohužel preventivní postřik nemá smysl a musí být již cílen na vylíhnuté housenky. Zde bude termín upřesněn, jak emailem na tyto adresáty, tak bude vyvěšena informace, který den se postřik uskuteční a, že v ten den (polovinu dne) není vhodé větrat a nesmí se chodit do vnitrobloku, než  postřik zaschne.
 
 Prosím všechny, zda mohou tuto informaci rozposlat v rámci Vašeho domu a případně prosím rozešlete i na jiné svj v rámci tohoto vnitrobloku, ne na všechny se mi podařilo dohledat kontakt.
+
+*Aktualizováno*
 
 Housenky se začali líhnout a tedy postřik musí proběhnout, co nejdříve.
 
