@@ -15,7 +15,8 @@ header_pages:
  - akcni-plan.md
  - kontakt.md
 
-markdown: kramdown
+#markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
  - jekyll-feed
