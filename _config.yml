@@ -9,6 +9,12 @@ show_downloads: true
 show_excerpts: true
 #google_analytics:
 
+header_pages:
+ - stanovy.md
+ - spravce-spolecne-veci.md
+ - akcni-plan.md
+ - kontakt.md
+
 markdown: kramdown
 theme: minima
 plugins:
