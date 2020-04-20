@@ -21,6 +21,7 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jemoji
 
 minima:
   date_format: "%d. %m. %Y"
