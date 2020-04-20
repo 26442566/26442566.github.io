@@ -14,8 +14,11 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
+list_title: "Aktuality"
+
 minima:
   date_format: "%d. %m. %Y"
 
 github_username: "26442566"
+keybase: lefak
 rss: rss
