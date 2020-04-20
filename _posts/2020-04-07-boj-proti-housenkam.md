@@ -7,8 +7,7 @@ author:
 meta: "Vnitroblok"
 ---
 
-Dobrý den,
-
+Dobrý den\
 ráda bych Vás informovala o aktivitě, co  bude probíhat u nás ve vnitrobloku.
 
 Loni byla u nás v celém vnitrbloku domů Jeseniova, Viklefova, Biskupcova a Ambrožova kalamita a přemnožení housenek bekyně. Byl i vydán z městké části zákaz chodit do vnitrobloku, vzhledem k alergiím atd.
