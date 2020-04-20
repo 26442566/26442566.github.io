@@ -14,8 +14,6 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
-list_title: "Aktuality"
-
 minima:
   date_format: "%d. %m. %Y"
 
