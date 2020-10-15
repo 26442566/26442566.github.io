@@ -14,7 +14,7 @@ Adresa: **Biskupcova 1719/42, 130 00 Praha 3**
 
 Email pro zasílání faktur: [fakturace@biskupcova42.cz](mailto:fakturace@biskupcova42.cz)
 
-Datová schránka:
+Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?dbid=dcjndq3)
 
 ## Výbor
 [**Tomáš Beznoska**](mailto:beznoska@biskupcova42.cz) - předseda výboru, 
