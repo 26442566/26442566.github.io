@@ -17,6 +17,6 @@ Správci společné věci pro jednotky 1719/1, 1719/2, 1719/3, 1719/5 byli zvole
 
 [Vladimír Kryzánek](mailto:kryzanek@biskupcova42.cz)
 
-[Jakub Sadílek](mailto:sadilek@biskupcova42.cz)
+[Mgr. Jakub Sadílek](mailto:sadilek@biskupcova42.cz), datová schránka [xsxc83a](https://www.mojedatovaschranka.cz/sds/detail?dbid=xsxc83a)
 
 Číslo účtu: 2401758030 / 2010
