@@ -7,7 +7,7 @@ author:
 meta: "Revize"
 ---
 
-## Kontrola spalinových cest, dle vyhlášky č. 34/2016 Sb. ze dne 29 ledna 2016. Vyhláška o čištění, kontrole a revizi spalinové cesty.
+Kontrola spalinových cest, dle vyhlášky č. 34/2016 Sb. ze dne 29 ledna 2016. Vyhláška o čištění, kontrole a revizi spalinové cesty.
 
 Na základě objednávky majitele (správce) domu, bude provedena kontrola spalinových cest ve vašem domě (zjištění přesného počtu používaných komínů a jejich technického stavu). Z tohoto důvodu je nutná vaše přítomnost při kontrole pro zajištění přístupu do bytu ke spotřebičům paliv.
 
