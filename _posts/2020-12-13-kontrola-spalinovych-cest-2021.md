@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kontrola spalinových cest - 2021"
+title: "Kontrola spalinových cest - 12. 1. 2021 8:30"
 categories: info
 author:
 - Tomáš Beznoska
