@@ -4,12 +4,13 @@ title: "Kontrola spalinových cest - 2021"
 categories: info
 author:
 - Tomáš Beznoska
-meta: "Revize"
+meta:
+- Revize
+- Spalinové cesty
+- 2021
 ---
 
-Kontrola spalinových cest, dle vyhlášky č. 34/2016 Sb. ze dne 29 ledna 2016. Vyhláška o čištění, kontrole a revizi spalinové cesty.
-
-Na základě objednávky majitele (správce) domu, bude provedena kontrola spalinových cest ve vašem domě (zjištění přesného počtu používaných komínů a jejich technického stavu). Z tohoto důvodu je nutná vaše přítomnost při kontrole pro zajištění přístupu do bytu ke spotřebičům paliv.
+Na základě objednávky majitele (správce) domu, bude provedena kontrola spalinových cest, dle vyhlášky č. 34/2016 Sb. ze dne 29 ledna 2016 (Vyhláška o čištění, kontrole a revizi spalinové cesty) v našem domě (zjištění přesného počtu používaných komínů a jejich technického stavu). Z tohoto důvodu je nutná vaše přítomnost při kontrole pro zajištění přístupu do bytu ke spotřebičům paliv.
 
 V případě že nepoužíváte žádný plynový nebo jiný spotřebič paliv napojený na komínový průduch (i plynový komín vedený ve světlíku nebo po fasádě domu), nebo ventilaci, zanechte prosím na dveřích, nebo u souseda čestné prohlášení (jakým způsobem je zajištěno vytápění bytu a ohřev vody) s vaším jménem a datumem. 
 (popřípadě telefonické spojení).
@@ -27,7 +28,7 @@ V případě Vaší nepřítomnosti nebude možné technický stav spalinových 
 V případě podrobnějších dotazů volejte naše techniky:
 
 jméno|kontakt
-:-|:-
+-|-
 Rychetský Pavel|605 487 803
 Poděbradský Jan|739 648 608
 Rychetský Petr|603 248 674
