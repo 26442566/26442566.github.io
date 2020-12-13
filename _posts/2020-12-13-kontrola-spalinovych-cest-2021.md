@@ -4,7 +4,7 @@ title: "Kontrola spalinových cest - 2021"
 categories: info
 author:
 - Tomáš Beznoska
-meta: "Revize", "Spalinové cesty", "2021"
+meta: "Revize"
 ---
 
 ## Kontrola spalinových cest, dle vyhlášky č. 34/2016 Sb. ze dne 29 ledna 2016. Vyhláška o čištění, kontrole a revizi spalinové cesty.
