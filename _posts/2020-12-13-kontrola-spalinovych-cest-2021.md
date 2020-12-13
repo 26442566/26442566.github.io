@@ -2,8 +2,7 @@
 layout: post
 title: "Kontrola spalinových cest - 12. 1. 2021 8:30"
 categories: info
-author:
-- Tomáš Beznoska
+author: Tomáš Beznoska
 meta:
 - Revize
 - Spalinové cesty
