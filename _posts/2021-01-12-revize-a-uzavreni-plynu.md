@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Plnová Revize a Uzavření Plynu - 20. 1. 2021 17:00-18:00"
+title: "Plynová Revize a Uzavření Plynu - 20. 1. 2021 17:00-18:00"
 categories: info
 author: Tomáš Beznoska
 meta:
