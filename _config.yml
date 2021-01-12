@@ -25,5 +25,6 @@ plugins:
 
 minima:
   date_format: "%d. %m. %Y"
+  skin: dark
 
 rss: rss
