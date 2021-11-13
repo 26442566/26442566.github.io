@@ -8,7 +8,7 @@ description: >
 show_downloads: true
 show_excerpts: true
 #google_analytics: UA-187196868-1
-google_analytics: G-X4Z4KCD7J9
+#google_analytics: G-X4Z4KCD7J9
 
 header_pages:
  - stanovy.md
