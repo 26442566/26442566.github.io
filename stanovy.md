@@ -84,7 +84,7 @@ podklady přiloženy k pozvánce.
 3. Předseda je statutárním orgánem společenství, za svou činnost odpovídá shromáždění.
 4. Předsedovi náleží veškerá působnost, kterou stanovy, zákon nebo rozhodnutí orgánu veřejné moci nesvěří jinému orgánu právnické osoby. Předseda řídí a organizuje běžnou činnost společenství a rozhoduje ve věcech, spojených se správou domu a pozemku a s předmětem činnosti společenství, s výjimkou těch věcí, které jsou podle právních předpisů a těchto stanov ve výlučné působnosti shromáždění nebo si je shromáždění k rozhodnutí vyhradilo.
 5. V působnosti předsedy je také rozhodování o:
-   1. nabytí movitých věcí, jejichž pořizovací cena nedosáhne v kalendářním roce souhrnné částky 25 000 Kč a dále rozhodování o prodeji nebo zatížení movitých věcí, jejichž zůstatková cena v kalendářním roce nepřesahuje v souhrnu částku 25 000 Kč,
+   1. nabytí movitých věcí, jejichž pořizovací cena nedosáhne v kalendářním roce souhrnné částky 25 000 Kč vč. DPH a dále rozhodování o prodeji nebo zatížení movitých věcí, jejichž zůstatková cena v kalendářním roce nepřesahuje v souhrnu částku 25 000 Kč vč. DPH,
    2. údržbě, opravě nebo stavební úpravě společné části, celková částka na opravy a údržbu však nesmí překročit částku 150 000 Kč vč. DPH v kalendářním roce. Tento limit neplatí, jde-li o havarijní stav či odstranění jeho důsledků a/nebo opatření k zabránění větší škodě na společných částech nebo majetku vlastníků jednotek. 
 
 O všech rozhodnutích podle bodů 5.1. a 5.2. tohoto článku je statutární orgán povinen informovat nejpozději na nejbližším zasedání shromáždění.
