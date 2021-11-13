@@ -18,7 +18,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 ## Předseda společenství
 
-[**Někdo z SMP**](mailto:@smppraha3.cz) - předseda společenství, tel: [271 773 201](tel:+420271773201), [777 367 619](tel:+420777367619)
+[**Někdo z SMP**](mailto:predseda@biskupcova42.cz) - předseda společenství, tel: [271 773 201](tel:+420271773201), [777 367 619](tel:+420777367619)
 
 ## Kontrolní komise
 
@@ -28,7 +28,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 [**Eva Sadílková**](mailto:sadilkova@biskupcova42.cz) - členka kontrolní komise
 
-Email kontrolní komise: [kk@biskupcova42.cz](mailto:vybor@biskupcova42.cz)
+Email kontrolní komise: [kk@biskupcova42.cz](mailto:kk@biskupcova42.cz)
 
 ## Správce
 
