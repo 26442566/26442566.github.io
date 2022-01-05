@@ -16,18 +16,23 @@ Email pro zasílání faktur: [fakturace@biskupcova42.cz](mailto:fakturace@bisku
 
 Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?dbid=dcjndq3)
 
-## Výbor
-[**Tomáš Beznoska**](mailto:beznoska@biskupcova42.cz) - předseda výboru, 
+## Předseda společenství
 
-[**Vladimír Kryzánek**](mailto:kryzanek@biskupcova42.cz) - místopředseda výboru, 
+[**Někdo z SMP**](mailto:predseda@biskupcova42.cz) - předseda společenství, tel: [271 773 201](tel:+420271773201), [777 367 619](tel:+420777367619)
 
-[**Jakub Sadílek**](mailto:sadilek@biskupcova42.cz) - člen výboru
+## Kontrolní komise
 
-Email výboru: [vybor@biskupcova42.cz](mailto:vybor@biskupcova42.cz)
+[**Mgr. Jakub Sadílek**](mailto:sadilek@biskupcova42.cz) - předseda kontrolní komise,
+
+[**Ing. Tomáš Beznoska**](mailto:beznoska@biskupcova42.cz) - člen kontrolní komise
+
+[**Eva Sadílková**](mailto:sadilkova@biskupcova42.cz) - členka kontrolní komise
+
+Email kontrolní komise: [kk@biskupcova42.cz](mailto:kk@biskupcova42.cz)
 
 ## Správce
 
-Správce: [Správa majetkového portfolia Praha 3 a.s.](https://www.spravanemovitosti.online/) 
+[Správa majetkového portfolia Praha 3 a.s.](https://www.spravanemovitosti.online/) 
 
 Provozní technik: [Mgr. Dagmar Moravcová](mailto:moravcova@smppraha3.cz) tel: [271 773 201](tel:+420271773201), [777 367 619](tel:+420777367619)
 
