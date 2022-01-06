@@ -18,7 +18,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 ## Předseda společenství
 
-[**Někdo z SMP**](mailto:predseda@biskupcova42.cz) - předseda společenství, tel: [271 773 201](tel:+420271773201), [777 367 619](tel:+420777367619)
+[**Ing. Josef Altman**](mailto:altman@smppraha3.cz) - předseda společenství, tel: [778 401 161](tel:+420778401161)
 
 ## Kontrolní komise
 
