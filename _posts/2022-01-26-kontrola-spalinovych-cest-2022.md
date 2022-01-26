@@ -35,5 +35,4 @@ Kubišta Václav|603 445 705
 
 Kominíci-provoz - Bořivojova 23 Praha 3
 tel/fax: 222 712 710
-www.kominici.unas.cz 
 kominici@seznam.cz
