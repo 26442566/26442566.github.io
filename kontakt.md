@@ -34,6 +34,6 @@ Email kontrolní komise: [kk@biskupcova42.cz](mailto:kk@biskupcova42.cz)
 
 [Správa majetkového portfolia Praha 3 a.s.](https://www.spravanemovitosti.online/) 
 
-Provozní technik: [Martina Lancová](mailto:lancova@smppraha3.cz) tel: [271 731 546](tel:+420271731546), [777 367 613](tel:+420777367613)
+Provozní technik: [Dagmar Skřivanová](mailto:skrivanova@smppraha3.cz) tel: [271 770 496](tel:+420271770496)
 
 Účetní: [Ing. Veronika Rosová](mailto:rosova@smppraha3.cz) tel: [284 019 830](tel:+420284019830), [739 632 516](tel:+420739632516)
