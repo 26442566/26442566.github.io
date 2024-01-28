@@ -10,4 +10,4 @@ meta:
 
 Vážení vlastníci,
 
-Od 1.2.2024 bude výkonem funkce u společenství pověřena paní Barbora Syřišťová, mail: syristova@smppraha3.cz, tel. +420 227 031 788
+Od 1. 2. 2024 bude výkonem funkce u společenství pověřena paní Barbora Syřišťová, mail: syristova@smppraha3.cz, tel. +420 227 031 788
