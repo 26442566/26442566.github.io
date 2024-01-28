@@ -18,7 +18,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 ## Předseda společenství
 
-[**Ing. Josef Altman**](mailto:altman@smppraha3.cz) - předseda společenství, tel: [778 401 161](tel:+420778401161)
+[**Barbora Syřišťová**](mailto:syristova@smppraha3.cz) - předsedkyně společenství, tel: [227 031 788](tel:+420227031788)
 
 ## Kontrolní komise
 
