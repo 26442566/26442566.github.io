@@ -7,7 +7,7 @@ Akční plán je přehledem konkrétních akcí plánovaných na nejbližší ro
 | Stav | Akce | Stručný popis | Priorita |
 | --- | --- | --- | :---: |
 | :ballot_box_with_check: | ~~Sklepy I.~~ | ~~Vyklizení a sanace sklepů,<br /> Příprava nových odpadních stoupaček,<br /> Vyklizení vnitrobloku~~ | ~~vysoká~~ |
-| | Sklepy II.| Výstavba sklepních kójí,<br /> obnovení instalace omítky,<br /> zednické práce | střední |
+| :ballot_box_with_check: | ~~Sklepy II.~~ | ~~Výstavba sklepních kójí,<br /> obnovení instalace omítky,<br /> zednické práce~~ | ~~střední~~ |
 | | Vstupní dveře | Výměna vstupních dveří,<br /> Čipový zámek | střední |
 | | Domovní komunikace | Zvonky a domovní komunikace | střední |
 | | Odpadní stoupačky | Výměna hlavních odpadních stoupaček | nízká |
