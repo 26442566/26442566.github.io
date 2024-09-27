@@ -18,7 +18,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 ## Předseda společenství
 
-[**Barbora Syřišťová**](mailto:syristova@smppraha3.cz) - předsedkyně společenství, tel: [227 031 788](tel:+420227031788)
+[**Barbora Syřišťová**](mailto:syristova@smppraha3.cz) - předsedkyně společenství, tel: [227 031 788](tel:+420227031788), [778 431 896](tel:+420778431896)
 
 ## Kontrolní komise
 
@@ -34,6 +34,6 @@ Email kontrolní komise: [kk@biskupcova42.cz](mailto:kk@biskupcova42.cz)
 
 [Správa majetkového portfolia Praha 3 a.s.](https://www.spravanemovitosti.online/) 
 
-Provozní technik: [Dagmar Skřivanová](mailto:skrivanova@smppraha3.cz) tel: [271 770 496](tel:+420271770496)
+Provozní technik: [Dagmar Skřivanová](mailto:skrivanova@smppraha3.cz) tel: [271 770 496](tel:+420271770496), [777 477 689](+420777477689)
 
 Účetní: [Ing. Veronika Rosová](mailto:rosova@smppraha3.cz) tel: [284 019 830](tel:+420284019830), [739 632 516](tel:+420739632516)
