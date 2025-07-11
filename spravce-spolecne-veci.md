@@ -13,7 +13,7 @@ odvoláván většinou hlasů a má postavení příkazníka. Správce věci dá
 spoluvlastníkům správu věci vyúčtovat a také mu náleží náhrada nákladů, které
 účelně vynaložil.
 
-Správci společné věci pro jednotky 1719/1, 1719/2, 1719/3, 1719/5 byli zvoleni na shromáždění dne 22. 9. 2016.
+Správci společné věci pro jednotky 1719/1, 1719/2, 1719/3, 1719/5 byli zvoleni na shromáždění dne 12. 5. 2025.
 
 **Pavel Tůma**
 
