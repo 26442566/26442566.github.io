@@ -15,8 +15,8 @@ spoluvlastníkům správu věci vyúčtovat a také mu náleží náhrada nákla
 
 Správci společné věci pro jednotky 1719/1, 1719/2, 1719/3, 1719/5 byli zvoleni na shromáždění dne 22. 9. 2016.
 
-[Vladimír Kryzánek](mailto:kryzanek@biskupcova42.cz)
+**Pavel Tůma**
 
-[Mgr. Jakub Sadílek](mailto:sadilek@biskupcova42.cz), datová schránka [xsxc83a](https://www.mojedatovaschranka.cz/sds/detail?dbid=xsxc83a)
+**[Ing. Tomáš Beznoska](mailto:beznoska@biskupcova42.cz)**
 
 Číslo účtu: 2401758030 / 2010
