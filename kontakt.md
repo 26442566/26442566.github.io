@@ -26,7 +26,7 @@ Datová schránka: [**dcjndq3**](https://www.mojedatovaschranka.cz/sds/detail?db
 
 [**Eva Sadílková**](mailto:sadilkova@biskupcova42.cz) - členka kontrolní komise
 
-[**Mgr. Jakub Sadílek**](mailto:sadilek@biskupcova42.cz) - člen kontrolní komise
+**Mgr. David Němeček** - člen kontrolní komise
 
 Email kontrolní komise: [kk@biskupcova42.cz](mailto:kk@biskupcova42.cz)
 
